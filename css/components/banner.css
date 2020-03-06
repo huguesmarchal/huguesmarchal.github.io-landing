@@ -1,0 +1,16 @@
+.banner {
+	background-image: linear-gradient(45deg, rgba(49,54,56,.8) 0%, rgba(0,0,0,.5) 100%), url(../../images/bg.jpg);
+	vertical-align: top;
+	padding: 150px 0px;
+	color: white;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h2 {
+	margin-bottom:40px;
+	font-family: Roboto;
+	font-weight: 300;
+	opacity: .8;
+	text-transform: none;
+}

@@ -11,5 +11,9 @@
 .button:hover {
 	background-color: black;
 	transition-timing-function: ease-in-out;
-	transition-duration:.8s .8s;
+	transition-duration:.8s;
+}
+
+.banner {
+	background-image: url();
 }
