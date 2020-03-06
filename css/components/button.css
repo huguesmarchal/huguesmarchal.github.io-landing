@@ -1,0 +1,15 @@
+.button {
+	background-color: #F48027;
+	background-size: cover;
+	padding:15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: Roboto;
+}
+
+.button:hover {
+	background-color: black;
+	transition-timing-function: ease-in-out;
+	transition-duration:.8s .8s;
+}
