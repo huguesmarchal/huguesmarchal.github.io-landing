@@ -1,5 +1,16 @@
-.avatar {
-	width: 60px;
-	height: 60px;
+.avatar img {
+	image-rendering: cover;
+	width: 100px;
+	height: 100px;
 	border-radius: 50%;
+	flex-grow: 1;
+	margin-left: 20px;
+	text-align: center;
 }
+
+.avatar {
+	display: inline-block;
+	flex-basis: 250px;
+	flex-grow: 1;
+}
+
