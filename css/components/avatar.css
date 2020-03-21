@@ -2,9 +2,10 @@
 	image-rendering: cover;
 	width: 100px;
 	height: 100px;
+	object-fit: cover;
 	border-radius: 50%;
 	flex-grow: 1;
-	margin-left: 20px;
+	margin: 20px;
 	text-align: center;
 }
 

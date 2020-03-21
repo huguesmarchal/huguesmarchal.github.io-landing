@@ -13,7 +13,9 @@
 
 .card img {
 	border-radius:6px;
-	height: 100px;
+	height:100px;
+	width:100px;
+	object-fit:cover;
 	padding: none;
 }
 
